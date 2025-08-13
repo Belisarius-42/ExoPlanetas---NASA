@@ -73,10 +73,8 @@ Se vc quiser rodar este projeto em sua própria máquina, siga esses passos:
     streamlit run app.py
     ```
 
-Saudações
--Bruno Henrique
-    
-
 O aplicativo será aberto automaticamente no seu navegador.
 
 ---
+Saudações
+-Bruno Henrique
