@@ -1,3 +1,8 @@
+![Status](https://img.shields.io/badge/status-concluído-green)
+![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red?logo=streamlit)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-blue?logo=pandas)
+
 # 🪐 Análise e Dashboard Interativo de Exoplanetas catalogados
 
 ## 🚀 Visão Geral do Projeto
